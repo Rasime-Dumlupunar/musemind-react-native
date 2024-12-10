@@ -26,5 +26,5 @@ Bu proje, görevlerin eklenmesi, güncellenmesi, silinmesi ve listelenmesini sa�
 - **react-navigation:** Sayfa yönetimi.
 - **react-native-svg:** SVG tabanlı grafikler.
 
-! [] (https://github.com/Rasime-Dumlupunar/musemind-react-native/blob/main/Musemind-gif.gif)
+![](https://github.com/Rasime-Dumlupunar/musemind-react-native/blob/main/Musemind-gif.gif)
 

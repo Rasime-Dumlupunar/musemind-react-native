@@ -28,3 +28,4 @@ Bu proje, görevlerin eklenmesi, güncellenmesi, silinmesi ve listelenmesini sa�
 
 ![](https://github.com/Rasime-Dumlupunar/musemind-react-native/blob/main/Musemind-gif.gif)
 
+![](https://github.com/Rasime-Dumlupunar/musemind-react-native/blob/main/Musemind-gif.gif)

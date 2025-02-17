@@ -25,5 +25,6 @@ Bu proje, görevlerin eklenmesi, güncellenmesi, silinmesi ve listelenmesini sa�
 - **react-native-linear-gradient:** Gradient arka planlar.
 - **react-navigation:** Sayfa yönetimi.
 - **react-native-svg:** SVG tabanlı grafikler.
+  
 
 ![](https://github.com/Rasime-Dumlupunar/musemind-react-native/blob/main/Musemind-gif.gif)
